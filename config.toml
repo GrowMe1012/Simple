@@ -1,0 +1,27 @@
+
+languageCode = "en-us"
+title ="GrowMe"
+theme="card"
+
+
+[params]
+  builtBy = "GrowMe"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com"
+  github = "http://github.com"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "GrowMe"
+     link = "https://github.com/"
