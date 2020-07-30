@@ -19,7 +19,7 @@ theme="card"
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  analytics = "UA-174144473-1"
   disqus = ""
 
   [params.copyright]
