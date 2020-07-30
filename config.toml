@@ -6,7 +6,7 @@ theme="card"
 
 [params]
   builtBy = "GrowMe"
-  defaultImage = "gopher.jpg"
+  defaultImage = "FinalLogo.png"
 
   facebook = "https://www.facebook.com/groups/613384762947610/"
   instagram = "https://www.instagram.com/growme1012/"

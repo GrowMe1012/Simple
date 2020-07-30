@@ -5,6 +5,8 @@
 
 <title>{{ .Title}}{{if .IsPage}} - {{.Site.Title}}{{ end }}</title>
 {{partial "seo.html" .}}
+<link rel = "icon" href = "https://github.com/GrowMe1012/Simple/blob/master/static/images/FinalLogo.png?raw=true_200X200.png" 
+        type = "image/x-icon"> 
 
 {{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}">
