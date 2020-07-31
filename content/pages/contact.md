@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: contact/
 ---
 
 Visit my [Github Account](https://github.com/GrowMe1012)
