@@ -3,7 +3,7 @@ layout: post
 title: "Intro to SparkAR"
 img: pic.png
 tags: ["tag_a", "tag_c"]
-date: "2020-08-1"
+date: "2020-08-03"
 ---
 
 ## Become a Filter/Game developer
