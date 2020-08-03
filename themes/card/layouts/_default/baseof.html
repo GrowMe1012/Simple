@@ -17,5 +17,6 @@
     <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
     {{ with .Site.Params.analytics }} {{ partial "analytics.html" . }} {{ end }}
     {{partial "adsense.html" .}}
+    {{partials "infolinks.html" .}}
   </body>
 </html>
