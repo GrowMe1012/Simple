@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Birthday To Me"
+title: "Happy Birthday To Me"
 img: Frame 1.jpg
 tags: ["tag_a", "tag_c"]
 date: "2020-07-30"
