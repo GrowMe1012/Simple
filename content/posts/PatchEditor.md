@@ -18,9 +18,13 @@ Just imagine you can program and do anything with your idea and your logic witho
 Some points :
 
 1) Idea about what you want to do.
-2) Then think of starting patch mostly interactive or object patches(the ones in which you drag objects directly in the patch editor)
+
+2) Then think of starting patch mostly interactive or object patches(the ones in which you drag objects directly in the patch editor).
+
 3)Then think of next and it can literally be anything just go through options and search for that particular patch.
+
 4)Property patches from inspector of objects/materials also play a role many times(almost all times).{click on the arrow}.
+
 5)Try,Test and Debug .
 
 
